@@ -1,0 +1,18 @@
+Erstelle ein Spiel, das den Spieler dazu auffordert eine Zahl zwischen 0 und 100 zu erraten. 
+Dabei soll der Spieler eine Zahl eingeben. 
+Ihm soll dann ausgegeben werden, ob seine Eingabe größer oder kleiner als die gesuchte Zahl ist.
+Außerdem soll die gesuchte Zahl angezeigt werden, wenn der Spieler diese erraten hat.
+
+schreibe den Code in spiel.py und melde dich, falls du Hilfe brauchst :) 
+
+Zusatzaufgaben:
+1. sorge dafür, dass die Zahl die erraten werden soll zufällig generiert wird.
+   Informiere dich hierfür wie man das in Python umsetzt und imporitere (falls notwendig) 
+   die benötigten Module
+
+2. Füge einen Counter hinzu, der dem Spieler nach jedem Versuch anzeigt wie viele Versuche er noch hat.
+   Nachdem er die gesuchte Zahl erraten hat soll angezeigt werden,
+   wie viele Versuche er gebraucht hat.
+
+3. Füge hinzu, dass der Spieler nur 10 Versuche hat die Zahl zu erraten. Wenn er es innerhalb
+   der Versuche nicht schafft, soll er darüber informiert werden und das Spiel abgebrochen werden.

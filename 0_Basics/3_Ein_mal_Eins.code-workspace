@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../3_Ein_mal_Eins"
+		},
+		{
+			"path": "../2_Schere_Stein_Papier"
+		},
+		{
+			"path": "../1_Zahlenratespiel"
+		},
+		{
+			"path": "../4_Kaffeautomat"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
