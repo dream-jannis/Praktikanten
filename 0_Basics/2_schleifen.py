@@ -69,4 +69,5 @@ hello = ["Ibrahim", False, "Thorsten", "Lara", 3.4, "Lucas", "Detlef", 14, "Fran
 """
 Aufgabe 3:
 Wie du vielleicht bemerkt hast, haben sich bei der Liste der Mitglider auch flasche Werte, wie Integer oder Floats mit eingeschliechen.
-Schreibe einen Code, der dafür sorgt, dass alle Elemente, bei welchen es sich nicht um einen Namen handelt aus der Liste hello entfernt werden
+Schreibe einen Code, der dafür sorgt, dass alle Elemente, bei welchen es sich nicht um einen Namen handelt aus der Liste hello entfernt werden!
+"""
