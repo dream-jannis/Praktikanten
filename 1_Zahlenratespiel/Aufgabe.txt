@@ -7,8 +7,8 @@ schreibe den Code in spiel.py und melde dich, falls du Hilfe brauchst :)
 
 Zusatzaufgaben:
 1. sorge dafür, dass die Zahl die erraten werden soll zufällig generiert wird.
-   Informiere dich hierfür wie man das in Python umsetzt und imporitere (falls notwendig) 
-   die benötigten Module
+   Informiere dich hierfür wie man das in Python umsetzt und importiere (falls notwendig) 
+   die benötigten Module.
 
 2. Füge einen Counter hinzu, der dem Spieler nach jedem Versuch anzeigt wie viele Versuche er noch hat.
    Nachdem er die gesuchte Zahl erraten hat soll angezeigt werden,
@@ -16,3 +16,12 @@ Zusatzaufgaben:
 
 3. Füge hinzu, dass der Spieler nur 10 Versuche hat die Zahl zu erraten. Wenn er es innerhalb
    der Versuche nicht schafft, soll er darüber informiert werden und das Spiel abgebrochen werden.
+
+4. Füge hinzu, dass nach nicht erreichen des Ziels innerhalb der 10 Versuche,
+   das Ergebnis und die gesuchte Zahl angezeigt wird und frage ob es nochmal versucht werden soll.
+   Bei erneutem versuch soll eine neue Zufällige zahl gesucht werden.
+
+5. Erarbeite dir eine Skalierung die bei nicht erreichen des Ziels,
+   die Anzahl der Versuche vergößert sollange nicht abgebrochen wird.
+   Sobald dann das Ziel irgendwann erreicht wird soll die Anzahl wieder zurück gesetzt werden,
+   wenn erneut gespielt wird ohne Abbruch des Programms.
