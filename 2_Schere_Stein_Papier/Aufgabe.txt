@@ -7,7 +7,12 @@ schreibe den Code in sss.py und melde dich, falls du Hilfe brauchst :)
 Zusatzaufgaben:
 1. Erweitere deinen Code, sodass endlos lang gespielt werden kann, das Spiel aber nach Belieben (z.B. bei Eingabe von q)
    abgebrochen werden kann!
+
 2. Führe einen Counter für jeden Spieler ein, welcher sich beim Gewinner der jeweiligen Runde um 1 erhöht.
    Der aktuelle Spielstand soll nach jeder Runde ausgegeben werden!
+
 3. Ersetzte den zweiten Spieler durch einen Com gegner, indem du den Computer zufällig zwischen Schere, Stein oder Papier
    entscheiden lässt. Passe dementsprechen auch den Counter an!
+
+4. Erweitere den Code so, dass noch mehr möglichkeiten außer Schere, Stein, Papier existieren. 
+   Versuche den Code so klein wie möglich zu halten.

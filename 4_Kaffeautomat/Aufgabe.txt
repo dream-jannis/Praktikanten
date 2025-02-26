@@ -1,13 +1,21 @@
 An einem Kaffeautomaten erhält  man Cappuchino für 0,85€ und Espresso für 0,65€.
 Man Kann mit 5, 10, 20 und 50ct Münzen bezahlen.
 
+schreibe den Code in automat.py und melde dich, falls du Hilfe brauchst :) 
+
 Schreib ein Programm, welches folgendes enthält:
 1. Der Beutzer soll gefragt werden, ob er einen Cappuchino oder Espresso haben möchte
+
 2. Als nächstes wird er dazu aufgefordert, so lange Münzen nach zu werfen, bis genug 
    Geld vorhanden ist, um das jeweilige Getränk auszugeben
+
 3. Ihm soll dabei sein Guthaben angezeigt werden, und falls er zu viel bezahlt hat auch 
    das Wechselgeld zurück gegeben werden
+
 4. gib bei der Aufforderung, bei der du eine Münze einwerfen sollst einen Buchstaben ein und schau was passiert.
    sorge dafür, dass der Code nicht abbricht wenn dies passiert. Informiere dich hierfür über Exception-Handling in Python
 
-schreibe den Code in automat.py und melde dich, falls du Hilfe brauchst :) 
+5. ermögliche es, dass nach Ausgabe des Produktes die Option besteht noch ein weiteres Produkt auszuwählen,
+   oder nur das Rückgeld auszuwerfen. Zeige am Ende deine Totalen ausgaben mit Rückgeld an.
+
+6. füge noch weitere Produkte hinzu und passe dem entsprechen die Preise an.

@@ -9,7 +9,7 @@ Anmerkung:
 Bei manchen Modi kann neben dem jeweiligen Buchstaben noch ein '+' hinzufügen wie zum Beispiel bei w.
 Der Modus w+ sorgt dafür, dass die im Pfad angegebene Datei zusätzlich neben dem Beschreiben noch erstellt wird, 
 falls sie noch nicht existiert.
-"""
+
 
 #Auslesen
 with open("0_Basics/3.txt", "r") as file:
@@ -26,7 +26,7 @@ with open("0_Basics/3.txt", "a") as file:
 with open("0_Basics/3.txt", "w") as file:
     file.write("neuer Text")
 
-
+"""
 #############################################Übungsaufgaben##############################################
 """
 Aufgabe 1:
